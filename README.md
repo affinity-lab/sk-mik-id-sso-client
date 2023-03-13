@@ -9,6 +9,10 @@
 
 A PTE MIK SSO ID rendszeréhez készült kliens SvelteKit keretrendszerhez
 
+## Installation
+
+`npm install --save https://github.com/affinity-lab/sk-mik-id-sso-client`
+
 ## Usage
 
 ### Client service
