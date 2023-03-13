@@ -8,8 +8,8 @@ export default class SSOClient {
 		private mikIdLogoutUrl: string,
 		private appId: string,
 		private appKey: string,
-		private onSignOut?: (event: RequestEvent) => void,
-		private onAuth?: (event: RequestEvent, user: NeptunUser) => void
+		private onAuth?: (event: RequestEvent, user: NeptunUser) => void,
+		private onSignOut?: (event: RequestEvent) => void
 	) {
 
 	}
