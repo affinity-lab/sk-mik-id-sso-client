@@ -47,7 +47,7 @@ Tipikusan a belépéskor egy session változóba beírjuk a visszakapott Neptun 
 
 ### Endpoint
 
-Tipikusan így néz ki egy sso kezelő végpont:
+Jellemzően így néz ki egy sso kezelő végpont:
 
 ```ts
 /// src/routes/sso/[action]/+server.ts
